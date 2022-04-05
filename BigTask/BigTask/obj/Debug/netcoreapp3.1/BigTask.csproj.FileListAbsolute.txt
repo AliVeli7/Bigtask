@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\BigTask\BigTask\bin\Debug\netcoreapp3.1\BigTask.exe
+C:\Users\Ali\source\repos\BigTask\BigTask\bin\Debug\netcoreapp3.1\BigTask.deps.json
+C:\Users\Ali\source\repos\BigTask\BigTask\bin\Debug\netcoreapp3.1\BigTask.runtimeconfig.json
+C:\Users\Ali\source\repos\BigTask\BigTask\bin\Debug\netcoreapp3.1\BigTask.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\BigTask\BigTask\bin\Debug\netcoreapp3.1\BigTask.dll
+C:\Users\Ali\source\repos\BigTask\BigTask\bin\Debug\netcoreapp3.1\BigTask.pdb
+C:\Users\Ali\source\repos\BigTask\BigTask\obj\Debug\netcoreapp3.1\BigTask.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\BigTask\BigTask\obj\Debug\netcoreapp3.1\BigTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\BigTask\BigTask\obj\Debug\netcoreapp3.1\BigTask.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\BigTask\BigTask\obj\Debug\netcoreapp3.1\BigTask.AssemblyInfo.cs
+C:\Users\Ali\source\repos\BigTask\BigTask\obj\Debug\netcoreapp3.1\BigTask.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\BigTask\BigTask\obj\Debug\netcoreapp3.1\BigTask.dll
+C:\Users\Ali\source\repos\BigTask\BigTask\obj\Debug\netcoreapp3.1\BigTask.pdb
+C:\Users\Ali\source\repos\BigTask\BigTask\obj\Debug\netcoreapp3.1\BigTask.genruntimeconfig.cache
