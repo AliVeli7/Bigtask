@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\bin\Debug\netcoreapp3.1\PrintAbleFile.exe
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\bin\Debug\netcoreapp3.1\PrintAbleFile.deps.json
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\bin\Debug\netcoreapp3.1\PrintAbleFile.runtimeconfig.json
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\bin\Debug\netcoreapp3.1\PrintAbleFile.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\bin\Debug\netcoreapp3.1\PrintAbleFile.dll
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\bin\Debug\netcoreapp3.1\PrintAbleFile.pdb
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\obj\Debug\netcoreapp3.1\PrintAbleFile.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\obj\Debug\netcoreapp3.1\PrintAbleFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\obj\Debug\netcoreapp3.1\PrintAbleFile.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\obj\Debug\netcoreapp3.1\PrintAbleFile.AssemblyInfo.cs
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\obj\Debug\netcoreapp3.1\PrintAbleFile.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\obj\Debug\netcoreapp3.1\PrintAbleFile.dll
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\obj\Debug\netcoreapp3.1\PrintAbleFile.pdb
+C:\Users\Ali\source\repos\PrintAbleFile\PrintAbleFile\obj\Debug\netcoreapp3.1\PrintAbleFile.genruntimeconfig.cache

@@ -4,9 +4,14 @@ using System.Text;
 
 namespace PrintAbleFile
 {
-    interface IPrintableFil
+    class PrintFileGen<T> where T : IPrintableFil
     {
         public string FileName { get; set; }
-        public void Print();
+
+        public void Print(T obj)
+        {
+            Console.WriteLine(obj);
+        }
     }
+    
 }

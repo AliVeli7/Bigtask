@@ -6,7 +6,14 @@ namespace PrintAbleFile
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pdf pdf = new Pdf();
+            PrintFileGen<Pdf> fileGen = new PrintFileGen<Pdf>();
+            fileGen.Print(pdf);
+           
+
+
+
+
         }
     }
 }
